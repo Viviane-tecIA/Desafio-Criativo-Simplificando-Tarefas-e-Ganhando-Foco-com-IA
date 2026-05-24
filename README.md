@@ -1,3 +1,5 @@
+​"Quero que a IA gere um plano de rotina de estudos diária para um estudante do 7º ano, com o objetivo de melhorar a organização e o rendimento escolar. Considere o seguinte contexto: o aluno chega da escola, precisa almoçar, descansar, revisar o conteúdo do dia, realizar tarefas de casa e ter um tempo de lazer. O conteúdo deve ser estruturado em formato de lista com horários sugeridos. Evite linguagem técnica complexa e certifique-se de incluir pequenas pausas para hidratação e descanso mental. O tom deve ser motivador e prático."
+
 # Desafio-Criativo-Simplificando-Tarefas-e-Ganhando-Foco-com-IA
 Plano de Rotina de Estudos: Organizando seu sucesso no 7º ano! 🚀
 ​Olá! Para ter um ótimo desempenho escolar sem abrir mão do seu tempo livre, o segredo é o equilíbrio. Aqui está uma sugestão de cronograma prático para o seu dia a dia:
